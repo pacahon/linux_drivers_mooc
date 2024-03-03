@@ -1,0 +1,7 @@
+apt-get install neofetch
+https://microhobby.com.br/blog/2019/09/21/compiling-your-own-linux-kernel-for-windows-wsl2/
+https://habr.com/ru/company/ruvds/blog/681880/
+sudo journalctl --since "1 hour ago" | grep kernel
+https://vseloved.github.io/spos.html
+https://github.com/ErakhtinB/Example-Module/blob/master/solution.c
+https://www.kernel.org/doc/html/latest/core-api/kobject.html
